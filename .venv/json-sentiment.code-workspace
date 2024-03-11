@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "json-sentiment",
+			"path": "../../../../../../Machine Learning/.venv/json-sentiment"
+		}
+	],
+	"settings": {}
+}
